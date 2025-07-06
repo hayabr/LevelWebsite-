@@ -1,3 +1,22 @@
 # LevelWebsite-
-Live Link: https://hayabr.github.io/LevelWebsite-/
-This website is  built with HTML, CSS, JavaScript, Bootstrap, and jQuery for a responsive and interactive design. It features a navigation bar with links like Home, Portfolio, Blog, and Contact, a section for selecting rooms, adults, and children with a check button, dummy Lorem Ipsum text, a newsletter subscription option, recommended places like Africa and Europe, a contact form, and a video.
+ 🌐 Live Demo
+[Click here to view the live site](https://hayabr.github.io/LevelWebsite-/)
+
+ 📋 Project Overview
+This website is built using HTML, CSS, JavaScript, Bootstrap, and jQuery to create a responsive and interactive user experience.
+
+ 🧩 Key Features
+- Responsive navigation bar with links: Home, Portfolio, Blog, and Contact.
+- A form to select rooms, adults, and children, with a check button.
+- Informative sections with Lorem Ipsum placeholder text.
+- Newsletter subscription section.
+- Recommended travel destinations like Africa and Europe.
+- An interactive **contact form**.
+- Embedded **video** for visual engagement.
+
+🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
